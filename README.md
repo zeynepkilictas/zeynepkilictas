@@ -1,4 +1,4 @@
-![Masterhead](https://media.tenor.com/Pt3WqGJBXLUAAAAd/blackhole-space.gif](https://media.tenor.com/Pt3WqGJBXLUAAAAd/blackhole-space.gif)
+![Masterhead](https://media.tenor.com/Pt3WqGJBXLUAAAAd/blackhole-space.gif)
 
 <h1 align="center">Hi 👋, I'm Zeynep Kilictas</h1>
 <h3 align="center">Civil Engineer trying to code</h3>
