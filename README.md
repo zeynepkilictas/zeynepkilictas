@@ -1,4 +1,4 @@
-![MasterHead]https://i.gifer.com/origin/c5/c5056fe916b043776e98d6149847ffbd.gif
+![MasterHead](https://i.gifer.com/origin/c5/c5056fe916b043776e98d6149847ffbd.gif)
 
 <h1 align="center">Hi 👋, I'm Zeynep Kilictas</h1>
 <h3 align="center">Civil Engineer trying to code</h3>
