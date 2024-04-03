@@ -1,4 +1,4 @@
-![MasterHead](https://lh3.googleusercontent.com/proxy/6Sa31hZxEYywIghGmvdnevvbNwsDcp6s9T8Z2g-EUrn7l-5OTa6hD9592TBfnfahvn5rpYg4OvGyzc9HbH43Ly8zRGDPgfiT9KPl7200t-Kc2lmd4zZcGcJ2](https://media.tenor.com/Pt3WqGJBXLUAAAAd/blackhole-space.gif)
+![MasterHead]([https://lh3.googleusercontent.com/proxy/6Sa31hZxEYywIghGmvdnevvbNwsDcp6s9T8Z2g-EUrn7l-5OTa6hD9592TBfnfahvn5rpYg4OvGyzc9HbH43Ly8zRGDPgfiT9KPl7200t-Kc2lmd4zZcGcJ2](https://media.tenor.com/Pt3WqGJBXLUAAAAd/blackhole-space.gif](https://media.tenor.com/Pt3WqGJBXLUAAAAd/blackhole-space.gif))
 
 <h1 align="center">Hi 👋, I'm Zeynep Kilictas</h1>
 <h3 align="center">Civil Engineer trying to code</h3>
