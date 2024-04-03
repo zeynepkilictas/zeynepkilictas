@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.gifer.com/origin/c5/c5056fe916b043776e98d6149847ffbd.gif" >
 
 
-<h1 align="center">Hi 👋, I'm Zeynep Kilictas</h1>
+<h1 align="center">Hi, I'm Zeynep Kilictas</h1>
 
 <h4 align="center">- 🌱 I’m currently learning **Pyhton, SQL, Django, Pandas, HTML**</h4>
 
