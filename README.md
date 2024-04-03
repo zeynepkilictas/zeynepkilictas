@@ -2,7 +2,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Zeynep Kilictas</h1>
-<h3 align="center">Civil Engineer trying to code</h3>
 
 <h4 align="center">- 🌱 I’m currently learning **Pyhton, SQL, Django, Pandas, HTML**</h4>
 
