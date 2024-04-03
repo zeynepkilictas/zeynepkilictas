@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://images.squarespace-cdn.com/content/v1/610179e7006e8156a3c79a9f/593f629a-b02c-41a3-bbc8-a69ee2e8f37f/hello+world+%280.42KB%29_2.gif" height="500">
+<img src="https://images.squarespace-cdn.com/content/v1/610179e7006e8156a3c79a9f/6cdf91c2-117e-4f0e-aea0-4788faf27955/hello+world+%280.42KB%29_NFT.gif" height="500">
 </p>
 
 <h1 align="center">Hi 👋, I'm Zeynep Kilictas</h1>
