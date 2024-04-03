@@ -1,5 +1,5 @@
 
-<img src="https://websiteninadi.uzantisi/gif_dosyasinin_adi.gif](https://i.gifer.com/origin/c5/c5056fe916b043776e98d6149847ffbd.gif" height="600">
+<img src="https://i.gifer.com/origin/c5/c5056fe916b043776e98d6149847ffbd.gif" height="600">
 
 
 <h1 align="center">Hi 👋, I'm Zeynep Kilictas</h1>
