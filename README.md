@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, I'm Zeynep Kilictas</h1>
 <h3 align="center">Civil Engineer trying to code</h3>
 
-<h3 align="center">- 🌱 I’m currently learning **Pyhton, SQL, Django, Pandas, HTML**</h3>
+<h2 align="center">- 🌱 I’m currently learning **Pyhton, SQL, Django, Pandas, HTML**</h2>
 
-- 📫 How to reach me **zeyneppkilictas@gmail.com**
+<h2 align="center">- 📫 How to reach me **zeyneppkilictas@gmail.com**</h2>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
