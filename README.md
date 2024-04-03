@@ -1,4 +1,6 @@
+<p align="center">
 ![Masterhead](https://media.tenor.com/Pt3WqGJBXLUAAAAd/blackhole-space.gif)
+</p>
 
 <h1 align="center">Hi 👋, I'm Zeynep Kilictas</h1>
 <h3 align="center">Civil Engineer trying to code</h3>
