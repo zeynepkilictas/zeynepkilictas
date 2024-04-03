@@ -1,5 +1,5 @@
 <p align="center">
-![Masterhead](https://media.tenor.com/Pt3WqGJBXLUAAAAd/blackhole-space.gif)
+<img src="https://media.tenor.com/Pt3WqGJBXLUAAAAd/blackhole-space.gif" height="500">
 </p>
 
 <h1 align="center">Hi 👋, I'm Zeynep Kilictas</h1>
